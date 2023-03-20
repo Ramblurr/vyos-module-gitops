@@ -1,5 +1,6 @@
 name: gitops
 version: 0.0.1
+description: A module for adding tools so you can (somewhat) gitops your vyos config
 packages:
   - age
   - bat
