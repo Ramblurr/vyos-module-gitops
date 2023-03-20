@@ -1,0 +1,11 @@
+name: gitops
+version: 0.0.1
+packages:
+  - age
+  - bat
+  - git
+  - jo
+  - jq
+  - moreutils
+  - tree
+
