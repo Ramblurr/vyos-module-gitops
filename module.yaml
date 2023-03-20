@@ -1,3 +1,4 @@
+---
 name: gitops
 version: 0.0.1
 description: A module for adding tools so you can (somewhat) gitops your vyos config
@@ -9,3 +10,5 @@ packages:
   - jq
   - moreutils
   - tree
+package_urls:
+  - url: https://github.com/mozilla/sops/releases/download/v3.7.3/sops_3.7.3_amd64.deb
