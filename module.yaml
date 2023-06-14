@@ -10,5 +10,6 @@ packages:
   - jq
   - moreutils
   - tree
+  - iptables
 package_urls:
   - url: https://github.com/mozilla/sops/releases/download/v3.7.3/sops_3.7.3_amd64.deb
